@@ -1,1 +1,1 @@
-# terraform-vpc-module
+# terraform-ec2-module
